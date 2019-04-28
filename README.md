@@ -1,5 +1,10 @@
 # 181410040
 
-Courses Struktur Data 1 
+Mochammad Bagasnanda Firmansyah
+e-mail bagasnandafirmansyah@yahoo.com
+phone +6282362276248
 
-NAMA : Mochammad Bagasnanda Firmansyah NPM : 181410040
+Course List
+
+Struktur Data I
+
